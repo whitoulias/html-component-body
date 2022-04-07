@@ -1,0 +1,6 @@
+$(document).ready(function(){
+   // Scroll the whole document
+        $(".navigation-bar").localScroll({
+           target:'body'          
+        });        
+});
